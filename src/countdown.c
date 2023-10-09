@@ -57,7 +57,7 @@ int main(int argc, char **argv) {
         decrement(&reloj);
     }
 
-    char *textos[] = {"\x1b[31mFin del tiempo.\x1b[30m", "               "};
+    char *textos[] = {"\x1b[31mFin del tiempo.\x1b[0m", "               "};
     while (1) {
         for (int i = 0; i < 2; i++) {
             printf("\r%s", textos[i]);

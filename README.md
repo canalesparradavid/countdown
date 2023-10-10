@@ -18,3 +18,6 @@ comando, está peticón de datos será obligatoria por pantalla.
 
 El programa se podrá parar presionando CTRL-C o haciendo
 click en la X de la ventana.
+
+Si desea aumentar el tiempo del contador, presione CTRL-Z y aparecerá un mensaje pidiendo el tiempo a aumentar al
+contador.
